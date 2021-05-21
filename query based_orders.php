@@ -1,6 +1,6 @@
 <?php
 
-$shopify_api_key = '#api_key'
+$shopify_api_key = '#api_key';
 $shopify_api_password = '#api_password';
 $shop_name = '#shop_name';
 
